@@ -9,7 +9,7 @@ window.games = [
     genre: ['action', 'adventure', 'puzzle'],
     star: 4.9,
     logoExtension: 'webp',  // svg 또는 webp
-    mainVideo: 'assets/video/games/astroBot/astroBot_trailer.mp4',
+    mainVideo: 'https://gmedia.playstation.com/is/content/SIEPDC/global_pdc/en/games/pdps/a/as/astro-bot/dlc/video/march-2025-dlc/astro-bot-march-dlc-01-tick-tock-shock-en-06mar25.mp4',
     // 게임 상세 미디어 갤러리
     mediaGall01: 'https://www.gameuidatabase.com/uploads/ASTRO-BOT10312024-062645-11651.jpg',
     mediaGall02: 'https://www.gameuidatabase.com/uploads/ASTRO-BOT10312024-062602-28967.jpg',
@@ -75,7 +75,7 @@ window.games = [
     genre: ['horror', 'story', 'cinematic', 'action', 'adventure', 'openworld'],
     star: 4.9,
     logoExtension: 'webp',
-    mainVideo: 'assets/video/games/spiderMan2/spiderMan2_trailer.mp4',
+    mainVideo: 'https://gmedia.playstation.com/is/content/SIEPDC/global_pdc/en/games/pdps/s/sp/spider-man-2/y9/videos/spider-man-2-04-Revelation-04oct23.mp4',
     // 게임 상세 미디어 갤러리
     mediaGall01: 'https://pbs.twimg.com/media/F5mubISWIAE8EHj?format=jpg&name=large',
     mediaGall02: 'https://pbs.twimg.com/media/F5mudZDWoAAFxB7?format=jpg&name=large',
@@ -209,7 +209,7 @@ window.games = [
     genre: ['soul', 'story', 'action', 'adventure', 'openworld', 'rpg'],
     star: 4.8,
     logoExtension: 'webp',
-    mainVideo: 'assets/video/games/ghostYotei/ghostYotei_trailer.mp4',
+    mainVideo: 'https://cdn.prod.website-files.com/6725a659efdb087a7a6de15e%2F67b65d2de825d4de36a6492b_AnnounceTrailer_website_full2-transcode.mp4',
     // 게임 상세 미디어 갤러리
     mediaGall01: 'https://www.gameuidatabase.com/uploads/Ghost-of-Ytei10022025-011905-84722.jpg',
     mediaGall02: 'https://www.gameuidatabase.com/uploads/Ghost-of-Ytei10022025-014536-90760.jpg',
@@ -341,7 +341,7 @@ window.games = [
     genre: ['story', 'action', 'adventure', 'openworld', 'rpg'],
     star: 4.8,
     logoExtension: 'svg',
-    mainVideo: 'assets/video/games/horizonFW/horizonFW_trailer.mp4',
+    mainVideo: 'https://gmedia.playstation.com/is/content/SIEPDC/global_pdc/en/games/pdps/h/ho/horizon-forbidden-west/hero/video/horizon-forbiddent-west-hero-mobile-en-19aug21.mp4',
     // 게임 상세 미디어 갤러리
     mediaGall01: 'https://preview.redd.it/horizon-forbidden-west-screenshots-from-my-ps4-v0-otu8ofvottyc1.png?width=1080&crop=smart&auto=webp&s=b9ef94e6bc7e58967001df4e4b0bc32d7a3cadff',
     mediaGall02: 'https://preview.redd.it/horizon-forbidden-west-screenshots-from-my-ps4-v0-76t0vh5sttyc1.png?width=1080&crop=smart&auto=webp&s=5832e9166fddb1e4d502560d2aa582a23e59bd15',
@@ -811,7 +811,7 @@ window.games = [
     genre: ['story', 'action', 'adventure', 'puzzle', 'cowork'],
     star: 4.8,
     logoExtension: 'webp',
-    mainVideo: 'assets/video/games/itTakesTwo/itTakesTwo_trailer.mp4',
+    mainVideo: 'https://gmedia.playstation.com/is/content/SIEPDC/global_pdc/en/games/pdps/i/it/it-takes-two/videos/it-takes-two-video-hero-01-ps4-ps5-en-29jan21.mp4',
     // 게임 상세 미디어 갤러리
     mediaGall01: 'https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1426210/ss_3e59753eefaba9a7704a18e902b48e8d38e95e0b.1920x1080.jpg?t=1763484491',
     mediaGall02: 'https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1426210/ss_6e987a0678b013bfd0073a9ac4703e1f04ca4dea.1920x1080.jpg?t=1763484491',
@@ -877,7 +877,7 @@ window.games = [
     genre: ['story', 'action', 'adventure', 'fantasy', 'puzzle', 'cowork', 'sf'],
     star: 4.7,
     logoExtension: 'webp',
-    mainVideo: 'assets/video/games/splitFiction/splitFiction_trailer.mp4',
+    mainVideo: 'https://drop-assets.ea.com/videos/20p7wjajVqQeIgfkRH4iTt/d714b1e2636ef8ca00a7cd54418195ba/SplitFiction_LOOP_v2-16x9.mp4',
     // 게임 상세 미디어 갤러리
     mediaGall01: 'https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2001120/5e3f5393e455fad3b5fa3f2fe469d9ad6b519069/ss_5e3f5393e455fad3b5fa3f2fe469d9ad6b519069.1920x1080.jpg?t=1763484567',
     mediaGall02: 'https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2001120/77070a9b5767e83d8482ab88b6ee7b881734ea8e/ss_77070a9b5767e83d8482ab88b6ee7b881734ea8e.1920x1080.jpg?t=1763484567',
@@ -1009,7 +1009,7 @@ window.games = [
     genre: ['soul', 'story', 'action', 'adventure', 'openworld', 'fantasy', 'rpg'],
     star: 4.5,
     logoExtension: 'webp',
-    mainVideo: 'assets/video/games/demonsSouls/demonsSouls_trailer.mp4',
+    mainVideo: 'https://gmedia.playstation.com/is/content/SIEPDC/global_pdc/en/games/pdps/d/de/demons-souls/hero/demons-souls-animated-mobile-hero-01-en-25jan21.mp4',
     // 게임 상세 미디어 갤러리
     mediaGall01: 'https://gmedia.playstation.com/is/image/SIEPDC/demons-souls-screenshot-15-disclaimer-en-09nov20?$2400px$',
     mediaGall02: 'https://gmedia.playstation.com/is/image/SIEPDC/demons-souls-screenshot-16-disclaimer-en-09nov20?$2400px$',
@@ -1479,7 +1479,7 @@ window.games = [
     genre: ['horror', 'shoot', 'action', 'openworld', 'cowork', 'sf'],
     star: 4.6,
     logoExtension: 'svg',
-    mainVideo: 'assets/video/games/helldivers2/helldivers2_trailer.mp4',
+    mainVideo: 'https://gmedia.playstation.com/is/content/SIEPDC/global_pdc/en/games/pdps/h/he/helldivers-2/videos/helldivers-2-video-block-02-en-06dec23.mp4',
     // 게임 상세 미디어 갤러리
     mediaGall01: 'https://gmedia.playstation.com/is/image/SIEPDC/helldivers-2-screenshot-disclaimer-18-en-08sept23?$2400px$',
     mediaGall02: 'https://gmedia.playstation.com/is/image/SIEPDC/helldivers-2-screenshot-disclaimer-02-en-24may23?$2400px$',
