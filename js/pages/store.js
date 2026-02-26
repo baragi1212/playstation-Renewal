@@ -256,7 +256,7 @@ function updateWishlistUI() {
     const discountedPrice = Math.round(item.originalPrice * (1 - item.discount / 100));
     return `
       <li class="wishlist__item">
-        <div class="item__left"><img src="assets/img/games/${item.id}/cover.jpg" alt="${item.name}"></div>
+        <div class="item__left"><img src="./assets/img/games/${item.id}/cover.jpg" alt="${item.name}"></div>
         <div class="item__mid">
           <p class="title--xs">${item.name}</p>
           <div class="item__star"><p class="title--xs"><i class="bi bi-star-fill"></i> ${item.star}</p></div>
