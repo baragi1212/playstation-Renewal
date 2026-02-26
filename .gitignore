@@ -1,0 +1,2 @@
+# 100MB가 넘는 영상 파일들 제외
+assets/video/games/**/*.mp4
