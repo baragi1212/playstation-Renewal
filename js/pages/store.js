@@ -302,7 +302,7 @@ function renderCards(page, dataToRender) {
       <div class="card-item" data-game="${game.id}">
         <div class="card">
           <div class="card__discount"><p class="title--l">-${game.discount}%</p></div>
-          <div class="card__img"><img src="../../assets/img/games/${game.id}/cover.jpg" alt="${game.name}"></div>
+          <div class="card__img"><img src="assets/img/games/${game.id}/cover.jpg" alt="${game.name}"></div>
           <div class="card__text">
             <div class="card__text__top">
               <div class="text__name"><p class="title--s">${game.name}</p></div>
