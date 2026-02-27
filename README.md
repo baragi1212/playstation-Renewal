@@ -3,20 +3,6 @@
 > **공식 PlayStation 웹사이트를 사용자 중심 UI/UX와 몰입형 인터랙션 중심 구조로 리뉴얼한 프론트엔드 팀 프로젝트입니다.**<br>
 > :bulb: 본 프로젝트는 퍼블리싱 + 인터랙션 설계 + 데이터 기반 동적 렌더링을 협업으로 진행한 작업입니다.
 
-<table>
-  <tr>
-    <th>리뉴얼 전</th>
-    <th>리뉴얼 후</th>
-  </tr>
-  <tr>
-    <th valign="top">
-      <img src="https://via.placeholder.com/500x300?text=Original+PlayStation+Website" alt="리뉴얼 전">
-    </th>
-    <th valign="top">
-      <img src="https://via.placeholder.com/500x300?text=Renewal+PlayStation+Website" alt="리뉴얼 후">
-    </th>
-  </tr>
-</table>
 
 #### :warning: 주의사항
 > 본 프로젝트는 학습 및 포트폴리오 용도로 제작되었습니다.<br>
